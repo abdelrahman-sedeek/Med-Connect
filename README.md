@@ -124,11 +124,11 @@ The backend follows **Clean Architecture** with clear separation of concerns:
 
 ## 🛠️ Tech Stack (Representative)
 
-* **Backend:** ASP.NET Core / Laravel (Clean Architecture)
-* **Database:** SQL Server / MySQL
+* **Backend:** ASP.NET Core (Clean Architecture)
+* **Database:** SQL Server 
 * **Authentication:** JWT, OTP, Google Auth
 * **Payments:** PayPal, Stripe
-* **Real-Time:** SignalR / WebSockets
+* **Real-Time:** SignalR 
 * **Maps:** Google Maps API
 * **Notifications:** Email / Push Notifications
 
